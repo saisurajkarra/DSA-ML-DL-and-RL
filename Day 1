@@ -1,3 +1,4 @@
 Day 1:
-Binary Search in python 
+Binary Search in python O(log(n))---> time complexity
+                        O(1)---> Space complexity
 How to upload image using PIL 
